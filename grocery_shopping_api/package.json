@@ -1,0 +1,16 @@
+{
+  "name": "grocery_shopping_api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fernando Alfaro",
+  "license": "ISC",
+  "description": "API for grocery shopping api",
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}

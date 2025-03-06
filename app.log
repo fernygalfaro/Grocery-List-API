@@ -1,0 +1,4 @@
+2025-03-06T02:59:48.501Z [info]: Item added: {"id":1741229988500,"name":"Apples","price":2.99,"quantity":5,"purchased":false}
+2025-03-06T03:00:41.876Z [info]: Item added: {"id":1741230041875,"name":"bannana","price":1.99,"quantity":2,"purchased":true}
+2025-03-06T03:08:46.694Z [info]: Item updated: {"id":1741230041875,"name":"bannana","price":1.99,"quantity":6,"purchased":true}
+2025-03-06T03:09:00.742Z [info]: Item deleted: {"id":1741230041875,"name":"bannana","price":1.99,"quantity":6,"purchased":true}
